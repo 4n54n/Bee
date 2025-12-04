@@ -96,7 +96,3 @@ Without these files, FCM and Realtime Database will not function.
 Unlicense
 
 ---
-✅ A corporate/production-style README
-✅ A version with diagrams or flow charts
-
-Just tell me!
